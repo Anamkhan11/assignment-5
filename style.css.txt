@@ -1,0 +1,47 @@
+.main-body
+{
+    margin: 5vh 5vw 5vh 5vw;
+    text-align: center;
+}
+#nav-bar li 
+{
+    display: inline-block;
+    list-style-type: none;
+    padding : 6vh;
+    margin : 9vh 13vw 7vh 12vw;
+    text-align : center;
+}
+#nav-bar li a 
+{
+    text-decoration: none;
+    color: black;
+}
+.form-body
+{
+  margin : 5vh 26vw 5vh 26vw;
+  padding : 20vh 14vw 20vh 14vw;
+  border : 2.5px solid black;
+  background color : acqua ;
+}
+.form-field
+{
+  margin-botton : 4.5vh;
+}
+.form-group
+{
+  font-size : medium;
+  padding : 1.2vw;
+}
+.text-center
+{
+  margin-left : 6vw;
+}
+#submit-button 
+{
+  font-size : large;
+  background-color : brown;
+  color : bisque;
+  border-radius : 3px;
+}
+
+ 

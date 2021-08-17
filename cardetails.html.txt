@@ -1,0 +1,30 @@
+<html>
+  <head> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width"> 
+  <title>Detail Form</title> 
+  <link href="style.css" rel="stylesheet" type="text/css"> 
+ </head> 
+ <body> 
+  <div class="main-body"> 
+  </div> 
+  <div class="form-body"> 
+   <form id-""="" action-""="" method-"post"=""> 
+    <div class="form-field"> 
+     <input type="text" class="form-group" placeholder="CarName" name="CarName" id="CarName"> 
+    </div> 
+    <div class="form-field"> 
+     <input type="Company" class="form-group" placeholder="Company" name="Company" id="Company"> 
+    </div> 
+    <div class="form-field"> 
+     <input type="text" class="form-group" placeholder="Status" id="Status"> 
+    </div> 
+    <div class="form-field text-center"> 
+     <button id="submit-button"> Submit </button> 
+    </div> 
+   </form> 
+   <script src="script.js"></script> 
+  </div> 
+ </body>
+</html>
